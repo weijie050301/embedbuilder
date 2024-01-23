@@ -1,11 +1,4 @@
-import React from 'react';
 import './assets/css/index.css'
-import './assets/libs/color-picker/color-picker.min.js'
-import './assets/libs/color-picker/color-picker.min.css'
-import './assets/js/components.js'
-import './builder.config.js'
-import './assets/js/script.js'
-
 import './assets/js/highlight.min.js'
 import './assets/js/twemoji.min.js'
 import './assets/libs/codemirror/codemirror.min.js'
@@ -23,6 +16,11 @@ import './assets/libs/codemirror/addon/lint/json-lint.min.js'
 import './assets/js/jsonlint.js'
 import './assets/libs/codemirror/addon/lint/lint.min.css'
 import './assets/libs/codemirror/addon/lint/lint.min.js'
+import './assets/libs/color-picker/color-picker.min.js'
+import './assets/libs/color-picker/color-picker.min.css'
+import './assets/js/components.js'
+import './builder.config.js'
+import './assets/js/script.js'
 
 export default function Container() {
     return (
